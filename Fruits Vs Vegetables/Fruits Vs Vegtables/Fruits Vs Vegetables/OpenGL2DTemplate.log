@@ -1,0 +1,7 @@
+﻿  texture19.cpp
+D:\User Documents\Desktop\graphics assignment 1\graphics assignment 1\Texture19\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\User Documents\Desktop\graphics assignment 1\graphics assignment 1\Texture19\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xtgmath.h(22,103): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\User Documents\Desktop\graphics assignment 1\graphics assignment 1\Texture19\texture19.cpp(62): warning C4172: returning address of local variable or temporary: res
+texture19.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGL2DTemplate.vcxproj -> D:\User Documents\Desktop\graphics assignment 1\graphics assignment 1\Texture19\Debug\Texture19.exe
